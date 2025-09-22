@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLop_lab10/MLflow/mlruns/599844820080698338/138fa19624764630b8d633efeeef52af/artifacts
+end_time: 1758515706855
+entry_point_name: ''
+experiment_id: '599844820080698338'
+lifecycle_stage: active
+run_id: 138fa19624764630b8d633efeeef52af
+run_name: bedecked-cow-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515706750
+status: 3
+tags: []
+user_id: computer

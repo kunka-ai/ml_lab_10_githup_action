@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLop_lab10/MLflow/mlruns/110608435781917174/4c848ab0aa44488e8b6990d1403b742f/artifacts
+end_time: 1758515732550
+entry_point_name: ''
+experiment_id: '110608435781917174'
+lifecycle_stage: active
+run_id: 4c848ab0aa44488e8b6990d1403b742f
+run_name: valuable-bug-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515732438
+status: 3
+tags: []
+user_id: computer
