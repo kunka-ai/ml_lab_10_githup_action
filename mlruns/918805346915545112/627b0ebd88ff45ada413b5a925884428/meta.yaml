@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/918805346915545112/627b0ebd88ff45ada413b5a925884428/artifacts
+end_time: 1757905125493
+entry_point_name: ''
+experiment_id: '918805346915545112'
+lifecycle_stage: active
+run_id: 627b0ebd88ff45ada413b5a925884428
+run_name: wistful-owl-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757905125400
+status: 3
+tags: []
+user_id: computer

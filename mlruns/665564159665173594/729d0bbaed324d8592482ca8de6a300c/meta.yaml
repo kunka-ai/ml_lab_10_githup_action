@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/665564159665173594/729d0bbaed324d8592482ca8de6a300c/artifacts
+end_time: 1757912113449
+entry_point_name: ''
+experiment_id: '665564159665173594'
+lifecycle_stage: active
+run_id: 729d0bbaed324d8592482ca8de6a300c
+run_name: painted-lark-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757912113344
+status: 3
+tags: []
+user_id: computer

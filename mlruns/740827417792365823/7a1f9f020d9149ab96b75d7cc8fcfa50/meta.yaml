@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/740827417792365823/7a1f9f020d9149ab96b75d7cc8fcfa50/artifacts
+end_time: 1757912100792
+entry_point_name: ''
+experiment_id: '740827417792365823'
+lifecycle_stage: active
+run_id: 7a1f9f020d9149ab96b75d7cc8fcfa50
+run_name: redolent-hawk-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757912100697
+status: 3
+tags: []
+user_id: computer

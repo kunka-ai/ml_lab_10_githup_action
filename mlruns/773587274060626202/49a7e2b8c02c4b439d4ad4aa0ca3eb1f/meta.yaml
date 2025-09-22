@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/773587274060626202/49a7e2b8c02c4b439d4ad4aa0ca3eb1f/artifacts
+end_time: 1757905222069
+entry_point_name: ''
+experiment_id: '773587274060626202'
+lifecycle_stage: active
+run_id: 49a7e2b8c02c4b439d4ad4aa0ca3eb1f
+run_name: gaudy-wren-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757905221962
+status: 3
+tags: []
+user_id: computer

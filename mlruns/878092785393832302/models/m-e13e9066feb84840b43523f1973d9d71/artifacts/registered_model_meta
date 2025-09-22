@@ -1,0 +1,2 @@
+model_name: breast-cancer-classifier-prod
+model_version: '2'

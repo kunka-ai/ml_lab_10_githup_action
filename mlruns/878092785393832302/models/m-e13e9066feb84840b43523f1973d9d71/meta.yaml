@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/878092785393832302/models/m-e13e9066feb84840b43523f1973d9d71/artifacts
+creation_timestamp: 1757912135618
+experiment_id: '878092785393832302'
+last_updated_timestamp: 1757912140047
+model_id: m-e13e9066feb84840b43523f1973d9d71
+model_type: null
+name: breast_cancer_classifier_pipeline
+source_run_id: 251c69ce612a47f2bedd22765e512ad9
+status: 2
+status_message: null

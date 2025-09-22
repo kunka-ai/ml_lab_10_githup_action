@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/896196852215396381/models/m-e28c19aa85bc41219f2bb9dc6bd8c4a9/artifacts
+creation_timestamp: 1757905454237
+experiment_id: '896196852215396381'
+last_updated_timestamp: 1757905458545
+model_id: m-e28c19aa85bc41219f2bb9dc6bd8c4a9
+model_type: null
+name: wine_classifier_pipeline
+source_run_id: c1edcdc05e7c4110a39b5821ca46eec1
+status: 2
+status_message: null

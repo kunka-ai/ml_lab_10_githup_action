@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/896196852215396381/c1edcdc05e7c4110a39b5821ca46eec1/artifacts
+end_time: 1757905458625
+entry_point_name: ''
+experiment_id: '896196852215396381'
+lifecycle_stage: active
+run_id: c1edcdc05e7c4110a39b5821ca46eec1
+run_name: logistic_regression_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757905454126
+status: 3
+tags: []
+user_id: computer

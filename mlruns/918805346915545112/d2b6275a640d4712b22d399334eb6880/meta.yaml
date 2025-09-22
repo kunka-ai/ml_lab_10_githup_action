@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/529-9/MLflow/mlruns/918805346915545112/d2b6275a640d4712b22d399334eb6880/artifacts
+end_time: 1757912249653
+entry_point_name: ''
+experiment_id: '918805346915545112'
+lifecycle_stage: active
+run_id: d2b6275a640d4712b22d399334eb6880
+run_name: unique-fawn-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757912249547
+status: 3
+tags: []
+user_id: computer
